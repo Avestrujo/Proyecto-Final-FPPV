@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ambiente
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 2601800363
+    locked: 0
+  - name: Plataformas
+    uniqueID: 3985262719
+    locked: 0
+  - name: Jugador
+    uniqueID: 2469846667
+    locked: 0
+  - name: Extras
+    uniqueID: 1600468671
+    locked: 0
+  - name: Suelo
+    uniqueID: 1646976395
+    locked: 0
+  - name: Liquido
+    uniqueID: 2803196743
+    locked: 0
+  - name: DetallesSuelo
+    uniqueID: 4097647863
+    locked: 0
+  - name: DetallesSuelo2
+    uniqueID: 482506873
+    locked: 0
+  - name: Paredes
+    uniqueID: 2038744431
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
