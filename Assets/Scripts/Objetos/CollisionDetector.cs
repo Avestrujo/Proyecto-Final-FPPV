@@ -9,17 +9,17 @@ public class CollisionDetector : MonoBehaviour
 
     [SerializeField] private UnityEvent CollisionExit;
     
-    private void OnCollisionEnter2D(Collision2D col)
+    private void OnCollisionEnter2D(Collision2D collider)
     {
-        if (col.gameObject.GetComponent(colliderScript))
+        if (collider.gameObject.GetComponent(colliderScript))
         {
             CollisionEntered?.Invoke();
         }
             
     }
-    private void OnCollisionExit2D(Collision2D col)
+    private void OnCollisionExit2D(Collision2D collider)
     {
-        if (col.gameObject.GetComponent(colliderScript))
+        if (collider.gameObject.GetComponent(colliderScript))
         {
             CollisionExit?.Invoke();
         }
