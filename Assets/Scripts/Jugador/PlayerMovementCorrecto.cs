@@ -7,7 +7,7 @@ public class PlayerMovementCorrecto : MonoBehaviour
 {
     private Rigidbody2D rb2D;
     public GameObject BulletPrefab;
-    public float Health = 10f;
+    public float Health = 1f;
 
     private float MovimientoHorizontal = 0f;
     [SerializeField] private float VelocidadMovimiento;
