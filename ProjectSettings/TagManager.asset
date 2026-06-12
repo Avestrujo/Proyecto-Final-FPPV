@@ -57,6 +57,9 @@ TagManager:
   - name: Suelo
     uniqueID: 1646976395
     locked: 0
+  - name: Suelo2
+    uniqueID: 143021021
+    locked: 0
   - name: Liquido
     uniqueID: 2803196743
     locked: 0
@@ -68,6 +71,9 @@ TagManager:
     locked: 0
   - name: Paredes
     uniqueID: 2038744431
+    locked: 0
+  - name: Techo
+    uniqueID: 1973952441
     locked: 0
   m_RenderingLayers:
   - Default
