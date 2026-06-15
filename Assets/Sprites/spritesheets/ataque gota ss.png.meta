@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 494660b296ab497469d717915bed1c99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 758673463640239769
+    second: ataque gota ss_0
+  - first:
+      213: 3758758762273829272
+    second: ataque gota ss_1
+  - first:
+      213: -377799803609697626
+    second: ataque gota ss_2
+  - first:
+      213: 7734851275946565963
+    second: ataque gota ss_3
+  - first:
+      213: -8025335073104033481
+    second: ataque gota ss_4
+  - first:
+      213: -7093554296095161818
+    second: ataque gota ss_5
+  - first:
+      213: -5333770970371763355
+    second: ataque gota ss_6
+  - first:
+      213: 9119150220391647275
+    second: ataque gota ss_7
+  - first:
+      213: -5858299340279825723
+    second: ataque gota ss_8
+  - first:
+      213: 5389809710000392079
+    second: ataque gota ss_9
+  - first:
+      213: 5435292188183800980
+    second: ataque gota ss_10
+  - first:
+      213: -3930828750091033425
+    second: ataque gota ss_11
+  - first:
+      213: 2418943761540538094
+    second: ataque gota ss_12
+  - first:
+      213: -7423478267118713695
+    second: ataque gota ss_13
+  - first:
+      213: 3087437373189088394
+    second: ataque gota ss_14
+  - first:
+      213: -1210897585591655739
+    second: ataque gota ss_15
+  - first:
+      213: -2812370174784198474
+    second: ataque gota ss_16
+  - first:
+      213: -6569137105256759064
+    second: ataque gota ss_17
+  - first:
+      213: 5411887855390025654
+    second: ataque gota ss_18
+  - first:
+      213: -6535789902954042894
+    second: ataque gota ss_19
+  - first:
+      213: -7938246315303137777
+    second: ataque gota ss_20
+  - first:
+      213: -8990372913055031972
+    second: ataque gota ss_21
+  - first:
+      213: -2308557089724132925
+    second: ataque gota ss_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ataque gota ss_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 515
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eaaccde79578a00800000000000000
+      internalID: 758673463640239769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 515
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891f7b5fd2bc92430800000000000000
+      internalID: 3758758762273829272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 515
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2b1ad8419c1caf0800000000000000
+      internalID: -377799803609697626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 515
+        width: 132
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41a5452146b75b60800000000000000
+      internalID: 7734851275946565963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7398624654840a090800000000000000
+      internalID: -8025335073104033481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 387
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6224d4273f1ae8d90800000000000000
+      internalID: -7093554296095161818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 387
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56353bddf83aaf5b0800000000000000
+      internalID: -5333770970371763355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 387
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b288ed36fcabd8e70800000000000000
+      internalID: 9119150220391647275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 259
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca37b2e9c323bea0800000000000000
+      internalID: -5858299340279825723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 259
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f874683ff537cca40800000000000000
+      internalID: 5389809710000392079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 259
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ca62f92790e6b40800000000000000
+      internalID: 5435292188183800980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 259
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa46ee50414e279c0800000000000000
+      internalID: -3930828750091033425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 131
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5546f880d19120800000000000000
+      internalID: 2418943761540538094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 131
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a48e8ae8d18af890800000000000000
+      internalID: -7423478267118713695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 131
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a846337dee7c8da20800000000000000
+      internalID: 3087437373189088394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 131
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c26e6fbf07023fe0800000000000000
+      internalID: -1210897585591655739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8a5130a3478f8d0800000000000000
+      internalID: -2812370174784198474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e045588b9cb5d4a0800000000000000
+      internalID: -6569137105256759064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 83
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7e5c0c453ea1b40800000000000000
+      internalID: 5411887855390025654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9e6db16b53c45a0800000000000000
+      internalID: -6535789902954042894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e8dcce80fa5d190800000000000000
+      internalID: -7938246315303137777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_21
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 71
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d9f07f777cb3380800000000000000
+      internalID: -8990372913055031972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque gota ss_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 57
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c19843ee8b56ffd0800000000000000
+      internalID: -2308557089724132925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ataque gota ss_0: 758673463640239769
+      ataque gota ss_1: 3758758762273829272
+      ataque gota ss_10: 5435292188183800980
+      ataque gota ss_11: -3930828750091033425
+      ataque gota ss_12: 2418943761540538094
+      ataque gota ss_13: -7423478267118713695
+      ataque gota ss_14: 3087437373189088394
+      ataque gota ss_15: -1210897585591655739
+      ataque gota ss_16: -2812370174784198474
+      ataque gota ss_17: -6569137105256759064
+      ataque gota ss_18: 5411887855390025654
+      ataque gota ss_19: -6535789902954042894
+      ataque gota ss_2: -377799803609697626
+      ataque gota ss_20: -7938246315303137777
+      ataque gota ss_21: -8990372913055031972
+      ataque gota ss_22: -2308557089724132925
+      ataque gota ss_3: 7734851275946565963
+      ataque gota ss_4: -8025335073104033481
+      ataque gota ss_5: -7093554296095161818
+      ataque gota ss_6: -5333770970371763355
+      ataque gota ss_7: 9119150220391647275
+      ataque gota ss_8: -5858299340279825723
+      ataque gota ss_9: 5389809710000392079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

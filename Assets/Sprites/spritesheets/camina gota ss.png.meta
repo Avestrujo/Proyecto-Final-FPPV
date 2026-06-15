@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: b40a8f9060de63b4db14c873d1644a67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3200680270473385836
+    second: camina gota ss_0
+  - first:
+      213: 6912227464322773037
+    second: camina gota ss_1
+  - first:
+      213: -8316922866856344608
+    second: camina gota ss_2
+  - first:
+      213: -2348535232056350534
+    second: camina gota ss_3
+  - first:
+      213: -3694116938926142663
+    second: camina gota ss_4
+  - first:
+      213: 7542543971065094469
+    second: camina gota ss_5
+  - first:
+      213: -7860615681465896086
+    second: camina gota ss_6
+  - first:
+      213: 6028827754234019322
+    second: camina gota ss_7
+  - first:
+      213: -5255261266956070711
+    second: camina gota ss_8
+  - first:
+      213: -6406510238863697324
+    second: camina gota ss_9
+  - first:
+      213: 1606259234691264164
+    second: camina gota ss_10
+  - first:
+      213: -4239320309643101930
+    second: camina gota ss_11
+  - first:
+      213: 1685500197218003547
+    second: camina gota ss_12
+  - first:
+      213: -2018262953784040574
+    second: camina gota ss_13
+  - first:
+      213: 5318974222334653559
+    second: camina gota ss_14
+  - first:
+      213: -5669912284779530009
+    second: camina gota ss_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: camina gota ss_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 387
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67da218fb91b6c20800000000000000
+      internalID: 3200680270473385836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 387
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2078a9914a2def50800000000000000
+      internalID: 6912227464322773037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 387
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e344b0b7ba549c80800000000000000
+      internalID: -8316922866856344608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 387
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8aac646a3586fd0800000000000000
+      internalID: -2348535232056350534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 259
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bcd80673cdbbcc0800000000000000
+      internalID: -3694116938926142663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 259
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541691297cf7ca860800000000000000
+      internalID: 7542543971065094469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 259
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a633c5e5fab79e290800000000000000
+      internalID: -7860615681465896086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 259
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd722f76e2baa350800000000000000
+      internalID: 6028827754234019322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 131
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0d635a8bf8117b0800000000000000
+      internalID: -5255261266956070711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a50a281e08717a0800000000000000
+      internalID: -6406510238863697324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 131
+        width: 100
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aea6fc73449a4610800000000000000
+      internalID: 1606259234691264164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 131
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619bf96a3a8ea25c0800000000000000
+      internalID: -4239320309643101930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aa70ccf79146710800000000000000
+      internalID: 1685500197218003547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2832f586980bdf3e0800000000000000
+      internalID: -2018262953784040574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77477b3cfdac0d940800000000000000
+      internalID: 5318974222334653559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: camina gota ss_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b71641dc6051b0800000000000000
+      internalID: -5669912284779530009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      camina gota ss_0: 3200680270473385836
+      camina gota ss_1: 6912227464322773037
+      camina gota ss_10: 1606259234691264164
+      camina gota ss_11: -4239320309643101930
+      camina gota ss_12: 1685500197218003547
+      camina gota ss_13: -2018262953784040574
+      camina gota ss_14: 5318974222334653559
+      camina gota ss_15: -5669912284779530009
+      camina gota ss_2: -8316922866856344608
+      camina gota ss_3: -2348535232056350534
+      camina gota ss_4: -3694116938926142663
+      camina gota ss_5: 7542543971065094469
+      camina gota ss_6: -7860615681465896086
+      camina gota ss_7: 6028827754234019322
+      camina gota ss_8: -5255261266956070711
+      camina gota ss_9: -6406510238863697324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

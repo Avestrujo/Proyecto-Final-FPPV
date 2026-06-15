@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 1c97fa1c8ff39f344883aafabb58462f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 716416664141706474
+    second: "da\xF1ada gota ss_0"
+  - first:
+      213: 7010008541200825731
+    second: "da\xF1ada gota ss_1"
+  - first:
+      213: 6203596239798583899
+    second: "da\xF1ada gota ss_2"
+  - first:
+      213: -8656618309855075439
+    second: "da\xF1ada gota ss_3"
+  - first:
+      213: 3681529391987332081
+    second: "da\xF1ada gota ss_4"
+  - first:
+      213: 4160525463829661497
+    second: "da\xF1ada gota ss_5"
+  - first:
+      213: 6141140640169733352
+    second: "da\xF1ada gota ss_6"
+  - first:
+      213: -433335321639864595
+    second: "da\xF1ada gota ss_7"
+  - first:
+      213: 4959163582186516637
+    second: "da\xF1ada gota ss_8"
+  - first:
+      213: -8162235298291804464
+    second: "da\xF1ada gota ss_9"
+  - first:
+      213: -4415231837255421836
+    second: "da\xF1ada gota ss_10"
+  - first:
+      213: -5795449375906500479
+    second: "da\xF1ada gota ss_11"
+  - first:
+      213: -6850385240785139075
+    second: "da\xF1ada gota ss_12"
+  - first:
+      213: -1263730206963225607
+    second: "da\xF1ada gota ss_13"
+  - first:
+      213: -8335339577517610132
+    second: "da\xF1ada gota ss_14"
+  - first:
+      213: -6096989483026302893
+    second: "da\xF1ada gota ss_15"
+  - first:
+      213: -7783211356272543403
+    second: "da\xF1ada gota ss_16"
+  - first:
+      213: -6266242004145409076
+    second: "da\xF1ada gota ss_17"
+  - first:
+      213: -8451204500302865217
+    second: "da\xF1ada gota ss_18"
+  - first:
+      213: -7837145449621974314
+    second: "da\xF1ada gota ss_19"
+  - first:
+      213: -5504140755238409990
+    second: "da\xF1ada gota ss_20"
+  - first:
+      213: 8844674045522297205
+    second: "da\xF1ada gota ss_21"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_0"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 259
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae43659092931f900800000000000000
+      internalID: 716416664141706474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_1"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 345
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dbabaa0ad884160800000000000000
+      internalID: 7010008541200825731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_2"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 259
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52c42b79e9971650800000000000000
+      internalID: 6203596239798583899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_3"
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 331
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19322fc03838dd780800000000000000
+      internalID: -8656618309855075439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_4"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 259
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f39097f97b671330800000000000000
+      internalID: 3681529391987332081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_5"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 131
+        width: 96
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937c88eadd72db930800000000000000
+      internalID: 4160525463829661497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_6"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 123
+        width: 90
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec280500e6b93550800000000000000
+      internalID: 6141140640169733352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_7"
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 243
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6b60522db7cf9f0800000000000000
+      internalID: -433335321639864595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_8"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 241
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90f743d00d72d440800000000000000
+      internalID: 4959163582186516637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_9"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 131
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d69928dd3ae9be80800000000000000
+      internalID: -8162235298291804464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_10"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 247
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47035637902f9b2c0800000000000000
+      internalID: -4415231837255421836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_11"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 245
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180755b8f7d629fa0800000000000000
+      internalID: -5795449375906500479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_12"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 181
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a4c6c1bea8ee0a0800000000000000
+      internalID: -6850385240785139075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_13"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 143
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fba6028214567ee0800000000000000
+      internalID: -1263730206963225607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_14"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 129
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6beec711dce25c80800000000000000
+      internalID: -8335339577517610132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_15"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358bce05e54236ba0800000000000000
+      internalID: -6096989483026302893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_16"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 123
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559b699328a7cf390800000000000000
+      internalID: -7783211356272543403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_17"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3f742e816d909a0800000000000000
+      internalID: -6266242004145409076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_18"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcd34b884a47ba80800000000000000
+      internalID: -8451204500302865217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_19"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2963e8cbddc3390800000000000000
+      internalID: -7837145449621974314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_20"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8a342352d5d93b0800000000000000
+      internalID: -5504140755238409990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1ada gota ss_21"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571497dee289eba70800000000000000
+      internalID: 8844674045522297205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "da\xF1ada gota ss_0": 716416664141706474
+      "da\xF1ada gota ss_1": 7010008541200825731
+      "da\xF1ada gota ss_10": -4415231837255421836
+      "da\xF1ada gota ss_11": -5795449375906500479
+      "da\xF1ada gota ss_12": -6850385240785139075
+      "da\xF1ada gota ss_13": -1263730206963225607
+      "da\xF1ada gota ss_14": -8335339577517610132
+      "da\xF1ada gota ss_15": -6096989483026302893
+      "da\xF1ada gota ss_16": -7783211356272543403
+      "da\xF1ada gota ss_17": -6266242004145409076
+      "da\xF1ada gota ss_18": -8451204500302865217
+      "da\xF1ada gota ss_19": -7837145449621974314
+      "da\xF1ada gota ss_2": 6203596239798583899
+      "da\xF1ada gota ss_20": -5504140755238409990
+      "da\xF1ada gota ss_21": 8844674045522297205
+      "da\xF1ada gota ss_3": -8656618309855075439
+      "da\xF1ada gota ss_4": 3681529391987332081
+      "da\xF1ada gota ss_5": 4160525463829661497
+      "da\xF1ada gota ss_6": 6141140640169733352
+      "da\xF1ada gota ss_7": -433335321639864595
+      "da\xF1ada gota ss_8": 4959163582186516637
+      "da\xF1ada gota ss_9": -8162235298291804464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 30202b37978c6f34380ac6115e127e72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5237701986424471895
+    second: idle gota ss_0
+  - first:
+      213: 1151563935829678969
+    second: idle gota ss_1
+  - first:
+      213: 6300329117301589153
+    second: idle gota ss_2
+  - first:
+      213: -6628904542817059672
+    second: idle gota ss_3
+  - first:
+      213: 2680105016878417989
+    second: idle gota ss_4
+  - first:
+      213: -7124313364580215199
+    second: idle gota ss_5
+  - first:
+      213: 558769472488448807
+    second: idle gota ss_6
+  - first:
+      213: 6351192322734007595
+    second: idle gota ss_7
+  - first:
+      213: 4572593673499543108
+    second: idle gota ss_8
+  - first:
+      213: 2788135385451868084
+    second: idle gota ss_9
+  - first:
+      213: 2302935944768803686
+    second: idle gota ss_10
+  - first:
+      213: -4505762962858021283
+    second: idle gota ss_11
+  - first:
+      213: -5889615617886339867
+    second: idle gota ss_12
+  - first:
+      213: 7240819470831445135
+    second: idle gota ss_13
+  - first:
+      213: -3220834662662183281
+    second: idle gota ss_14
+  - first:
+      213: 9000935242746791951
+    second: idle gota ss_15
+  - first:
+      213: -3473831419409816882
+    second: idle gota ss_16
+  - first:
+      213: -2716186748654408649
+    second: idle gota ss_17
+  - first:
+      213: 3339072301656493249
+    second: idle gota ss_18
+  - first:
+      213: -4326037423517321552
+    second: idle gota ss_19
+  - first:
+      213: 2496590330543367304
+    second: idle gota ss_20
+  - first:
+      213: 7734385798381386487
+    second: idle gota ss_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle gota ss_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 387
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aebfcb3bc1ff47b0800000000000000
+      internalID: -5237701986424471895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 387
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b57436c4d2bff00800000000000000
+      internalID: 1151563935829678969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 471
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4cfcc93f34f6750800000000000000
+      internalID: 6300329117301589153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 387
+        width: 84
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac7a6390766104a0800000000000000
+      internalID: -6628904542817059672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 387
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548c7c32055a13520800000000000000
+      internalID: 2680105016878417989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 259
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166d0abbdba512d90800000000000000
+      internalID: -7124313364580215199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 259
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723a10fefd521c700800000000000000
+      internalID: 558769472488448807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 319
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25afb874c7f32850800000000000000
+      internalID: 6351192322734007595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 259
+        width: 84
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446832b28bd157f30800000000000000
+      internalID: 4572593673499543108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 303
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf2e836c5271b620800000000000000
+      internalID: 2788135385451868084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_10
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 259
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6635c605a0ca5ff10800000000000000
+      internalID: 2302935944768803686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 167
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e6cb435705871c0800000000000000
+      internalID: -4505762962858021283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 131
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecba40dcc1e34ea0800000000000000
+      internalID: -5889615617886339867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 143
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84e3a9f1fe8c7460800000000000000
+      internalID: 7240819470831445135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8661c360fb4d43d0800000000000000
+      internalID: -3220834662662183281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_15
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 131
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08873e0aeeb9ec70800000000000000
+      internalID: 9000935242746791951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 131
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2ac7caab87acfc0800000000000000
+      internalID: -3473831419409816882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 131
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ca4d60b8a2e4ad0800000000000000
+      internalID: -2716186748654408649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccc4933194c65e20800000000000000
+      internalID: 3339072301656493249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6343632e3d6f3c0800000000000000
+      internalID: -4326037423517321552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88466b99daba5a220800000000000000
+      internalID: 2496590330543367304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle gota ss_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa3954b7ee065b60800000000000000
+      internalID: 7734385798381386487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle gota ss_0: -5237701986424471895
+      idle gota ss_1: 1151563935829678969
+      idle gota ss_10: 2302935944768803686
+      idle gota ss_11: -4505762962858021283
+      idle gota ss_12: -5889615617886339867
+      idle gota ss_13: 7240819470831445135
+      idle gota ss_14: -3220834662662183281
+      idle gota ss_15: 9000935242746791951
+      idle gota ss_16: -3473831419409816882
+      idle gota ss_17: -2716186748654408649
+      idle gota ss_18: 3339072301656493249
+      idle gota ss_19: -4326037423517321552
+      idle gota ss_2: 6300329117301589153
+      idle gota ss_20: 2496590330543367304
+      idle gota ss_21: 7734385798381386487
+      idle gota ss_3: -6628904542817059672
+      idle gota ss_4: 2680105016878417989
+      idle gota ss_5: -7124313364580215199
+      idle gota ss_6: 558769472488448807
+      idle gota ss_7: 6351192322734007595
+      idle gota ss_8: 4572593673499543108
+      idle gota ss_9: 2788135385451868084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

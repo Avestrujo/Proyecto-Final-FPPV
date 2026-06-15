@@ -1,0 +1,6890 @@
+fileFormatVersion: 2
+guid: a9d55b60c7979b147a8feb2a561eb732
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6033977460595786982
+    second: muerte gota_0
+  - first:
+      213: -8869948921743499310
+    second: muerte gota_1
+  - first:
+      213: 9108689112530059972
+    second: muerte gota_2
+  - first:
+      213: -8455346393162291997
+    second: muerte gota_3
+  - first:
+      213: 8333128907907053213
+    second: muerte gota_4
+  - first:
+      213: 323789794401316119
+    second: muerte gota_5
+  - first:
+      213: 3649807510177157637
+    second: muerte gota_6
+  - first:
+      213: 5582219145538459738
+    second: muerte gota_7
+  - first:
+      213: 2992719432263408338
+    second: muerte gota_8
+  - first:
+      213: -3184687964189767348
+    second: muerte gota_9
+  - first:
+      213: 1065666011493895352
+    second: muerte gota_10
+  - first:
+      213: -855838260813156090
+    second: muerte gota_11
+  - first:
+      213: 2898815113808936157
+    second: muerte gota_12
+  - first:
+      213: -5972374387246005319
+    second: muerte gota_13
+  - first:
+      213: 6543284149220994461
+    second: muerte gota_14
+  - first:
+      213: 7409346155431287410
+    second: muerte gota_15
+  - first:
+      213: 3719114355981130148
+    second: muerte gota_16
+  - first:
+      213: 6419928140698468062
+    second: muerte gota_17
+  - first:
+      213: -8667359121617977117
+    second: muerte gota_18
+  - first:
+      213: 2141744870135736094
+    second: muerte gota_19
+  - first:
+      213: 2145157879724816883
+    second: muerte gota_20
+  - first:
+      213: -2631693307923899910
+    second: muerte gota_21
+  - first:
+      213: -4750702604222972903
+    second: muerte gota_22
+  - first:
+      213: -3654336463056540119
+    second: muerte gota_23
+  - first:
+      213: 4597674248132562317
+    second: muerte gota_24
+  - first:
+      213: 3623806423352486321
+    second: muerte gota_25
+  - first:
+      213: -3732227243304610608
+    second: muerte gota_26
+  - first:
+      213: 4338153847124415891
+    second: muerte gota_27
+  - first:
+      213: 67387094032095188
+    second: muerte gota_28
+  - first:
+      213: 5806735040230199567
+    second: muerte gota_29
+  - first:
+      213: -4491136814350507520
+    second: muerte gota_30
+  - first:
+      213: 1710993953716836748
+    second: muerte gota_31
+  - first:
+      213: -2821540854513548699
+    second: muerte gota_32
+  - first:
+      213: -3873628975576223604
+    second: muerte gota_33
+  - first:
+      213: 6916066944237031343
+    second: muerte gota_34
+  - first:
+      213: 7661817133143595482
+    second: muerte gota_35
+  - first:
+      213: 3839561756378517636
+    second: muerte gota_36
+  - first:
+      213: -5227831533942616791
+    second: muerte gota_37
+  - first:
+      213: -8171465114949347188
+    second: muerte gota_38
+  - first:
+      213: 7712464342516079780
+    second: muerte gota_39
+  - first:
+      213: -3081869973336106953
+    second: muerte gota_40
+  - first:
+      213: 7011805856361341733
+    second: muerte gota_41
+  - first:
+      213: 1364448628279394508
+    second: muerte gota_42
+  - first:
+      213: 7256188633103666091
+    second: muerte gota_43
+  - first:
+      213: -2155990957266318850
+    second: muerte gota_44
+  - first:
+      213: -8587466894620017016
+    second: muerte gota_45
+  - first:
+      213: 9210911045554913624
+    second: muerte gota_46
+  - first:
+      213: -8745608954611796598
+    second: muerte gota_47
+  - first:
+      213: -9028344322756063586
+    second: muerte gota_48
+  - first:
+      213: -7324056967115938958
+    second: muerte gota_49
+  - first:
+      213: -6088810361670774442
+    second: muerte gota_50
+  - first:
+      213: 6677335369669156575
+    second: muerte gota_51
+  - first:
+      213: -3032834247573570799
+    second: muerte gota_52
+  - first:
+      213: 7036782338752070546
+    second: muerte gota_53
+  - first:
+      213: -5162642781166022640
+    second: muerte gota_54
+  - first:
+      213: -4707275049881791435
+    second: muerte gota_55
+  - first:
+      213: -5413703358953444302
+    second: muerte gota_56
+  - first:
+      213: 2949818006765266089
+    second: muerte gota_57
+  - first:
+      213: -2846375317944883008
+    second: muerte gota_58
+  - first:
+      213: -2950515271513530716
+    second: muerte gota_59
+  - first:
+      213: -2318594917486915138
+    second: muerte gota_60
+  - first:
+      213: 1566940730263856367
+    second: muerte gota_61
+  - first:
+      213: 5039395057225863161
+    second: muerte gota_62
+  - first:
+      213: -7195544387131719283
+    second: muerte gota_63
+  - first:
+      213: -8319624596709458037
+    second: muerte gota_64
+  - first:
+      213: -6540935242150852268
+    second: muerte gota_65
+  - first:
+      213: -1161839785447747927
+    second: muerte gota_66
+  - first:
+      213: 3154597663106234859
+    second: muerte gota_67
+  - first:
+      213: -9184805306051157138
+    second: muerte gota_68
+  - first:
+      213: 730700309489975196
+    second: muerte gota_69
+  - first:
+      213: 2062342400192603777
+    second: muerte gota_70
+  - first:
+      213: 85244073123505250
+    second: muerte gota_71
+  - first:
+      213: -1525849381882373726
+    second: muerte gota_72
+  - first:
+      213: -388645861559881568
+    second: muerte gota_73
+  - first:
+      213: 6580167157245657459
+    second: muerte gota_74
+  - first:
+      213: -8512602620244222708
+    second: muerte gota_75
+  - first:
+      213: 5946802017238288984
+    second: muerte gota_76
+  - first:
+      213: 4623159367146744620
+    second: muerte gota_77
+  - first:
+      213: -128936417491132319
+    second: muerte gota_78
+  - first:
+      213: 9063590604072285428
+    second: muerte gota_79
+  - first:
+      213: -3103024753425404389
+    second: muerte gota_80
+  - first:
+      213: 5907423328688670259
+    second: muerte gota_81
+  - first:
+      213: -894988041781689942
+    second: muerte gota_82
+  - first:
+      213: -8997575173418989352
+    second: muerte gota_83
+  - first:
+      213: 3036378900046026709
+    second: muerte gota_84
+  - first:
+      213: -5072935830934476169
+    second: muerte gota_85
+  - first:
+      213: 8489642262405430169
+    second: muerte gota_86
+  - first:
+      213: 8331699366780937078
+    second: muerte gota_87
+  - first:
+      213: -4542408260604335418
+    second: muerte gota_88
+  - first:
+      213: -3267311177858859398
+    second: muerte gota_89
+  - first:
+      213: -6697457238546277425
+    second: muerte gota_90
+  - first:
+      213: -7170639270875182660
+    second: muerte gota_91
+  - first:
+      213: -4021435012857533530
+    second: muerte gota_92
+  - first:
+      213: -6978299438707920417
+    second: muerte gota_93
+  - first:
+      213: 336698613538489408
+    second: muerte gota_94
+  - first:
+      213: -8179028745735293447
+    second: muerte gota_95
+  - first:
+      213: -4908904732465691068
+    second: muerte gota_96
+  - first:
+      213: 2745929853888823519
+    second: muerte gota_97
+  - first:
+      213: 1168317387071499786
+    second: muerte gota_98
+  - first:
+      213: -3118840930933572882
+    second: muerte gota_99
+  - first:
+      213: 7508702734300854675
+    second: muerte gota_100
+  - first:
+      213: 2000425832854102641
+    second: muerte gota_101
+  - first:
+      213: 4381853869080921078
+    second: muerte gota_102
+  - first:
+      213: -4496564611300841062
+    second: muerte gota_103
+  - first:
+      213: -4585614037331033979
+    second: muerte gota_104
+  - first:
+      213: 7314541996220873379
+    second: muerte gota_105
+  - first:
+      213: 3923868427592517285
+    second: muerte gota_106
+  - first:
+      213: 4502792024971402206
+    second: muerte gota_107
+  - first:
+      213: 8344240095042107419
+    second: muerte gota_108
+  - first:
+      213: 527751092655742772
+    second: muerte gota_109
+  - first:
+      213: 3421688246001733354
+    second: muerte gota_110
+  - first:
+      213: -3798705417021883041
+    second: muerte gota_111
+  - first:
+      213: -152208432528859844
+    second: muerte gota_112
+  - first:
+      213: 7072846877854474899
+    second: muerte gota_113
+  - first:
+      213: -5434576797209383385
+    second: muerte gota_114
+  - first:
+      213: -7422931827402564704
+    second: muerte gota_115
+  - first:
+      213: 8501577020860701741
+    second: muerte gota_116
+  - first:
+      213: 621064773838222640
+    second: muerte gota_117
+  - first:
+      213: -7373253151160264238
+    second: muerte gota_118
+  - first:
+      213: -8110459363189415041
+    second: muerte gota_119
+  - first:
+      213: -2354587715936708498
+    second: muerte gota_120
+  - first:
+      213: 4724142825856707222
+    second: muerte gota_121
+  - first:
+      213: -3533511221267512251
+    second: muerte gota_122
+  - first:
+      213: -1223205114015747429
+    second: muerte gota_123
+  - first:
+      213: -9050056812943108686
+    second: muerte gota_124
+  - first:
+      213: 5277193937857313319
+    second: muerte gota_125
+  - first:
+      213: -572507850780860104
+    second: muerte gota_126
+  - first:
+      213: -8015613715799481869
+    second: muerte gota_127
+  - first:
+      213: -3939334238644796952
+    second: muerte gota_128
+  - first:
+      213: -7018034475908545188
+    second: muerte gota_129
+  - first:
+      213: -4014879732098541239
+    second: muerte gota_130
+  - first:
+      213: -5251662492952809224
+    second: muerte gota_131
+  - first:
+      213: -3341199304333460727
+    second: muerte gota_132
+  - first:
+      213: -5414644020819197828
+    second: muerte gota_133
+  - first:
+      213: 2509844734385226896
+    second: muerte gota_134
+  - first:
+      213: -3255042706509988696
+    second: muerte gota_135
+  - first:
+      213: 1301423170457173971
+    second: muerte gota_136
+  - first:
+      213: -9125038802924126767
+    second: muerte gota_137
+  - first:
+      213: 7886765982414522245
+    second: muerte gota_138
+  - first:
+      213: 4553222050797052210
+    second: muerte gota_139
+  - first:
+      213: -6185449041212596353
+    second: muerte gota_140
+  - first:
+      213: -7892716972894761788
+    second: muerte gota_141
+  - first:
+      213: -7350967290896263350
+    second: muerte gota_142
+  - first:
+      213: -4219214326045385380
+    second: muerte gota_143
+  - first:
+      213: 5117303750885736493
+    second: muerte gota_144
+  - first:
+      213: -13803589652948257
+    second: muerte gota_145
+  - first:
+      213: 2942267556875348694
+    second: muerte gota_146
+  - first:
+      213: 2003499103389741536
+    second: muerte gota_147
+  - first:
+      213: 924049655859257996
+    second: muerte gota_148
+  - first:
+      213: 6560226661463762313
+    second: muerte gota_149
+  - first:
+      213: -5794023796397274611
+    second: muerte gota_150
+  - first:
+      213: 9024920250195763033
+    second: muerte gota_151
+  - first:
+      213: 318476884967986137
+    second: muerte gota_152
+  - first:
+      213: -1920578536568431050
+    second: muerte gota_153
+  - first:
+      213: 1586134720254496586
+    second: muerte gota_154
+  - first:
+      213: 9215564577698795652
+    second: muerte gota_155
+  - first:
+      213: 4949159219272932279
+    second: muerte gota_156
+  - first:
+      213: -6716505637023815084
+    second: muerte gota_157
+  - first:
+      213: 668347848263280517
+    second: muerte gota_158
+  - first:
+      213: 2173447704733205266
+    second: muerte gota_159
+  - first:
+      213: 500200504694933261
+    second: muerte gota_160
+  - first:
+      213: 302832121603237616
+    second: muerte gota_161
+  - first:
+      213: 1063472025906221810
+    second: muerte gota_162
+  - first:
+      213: 287618670860445425
+    second: muerte gota_163
+  - first:
+      213: -8435763215213421554
+    second: muerte gota_164
+  - first:
+      213: -7584848062526868450
+    second: muerte gota_165
+  - first:
+      213: 7158235324588549487
+    second: muerte gota_166
+  - first:
+      213: 1449864355949301069
+    second: muerte gota_167
+  - first:
+      213: -5594814502937493965
+    second: muerte gota_168
+  - first:
+      213: -5938519957030652943
+    second: muerte gota_169
+  - first:
+      213: 665537006513242173
+    second: muerte gota_170
+  - first:
+      213: -6684629849101206245
+    second: muerte gota_171
+  - first:
+      213: 2230658624324165477
+    second: muerte gota_172
+  - first:
+      213: -4977036384105096072
+    second: muerte gota_173
+  - first:
+      213: -6062914604912688776
+    second: muerte gota_174
+  - first:
+      213: -2056913327774318953
+    second: muerte gota_175
+  - first:
+      213: 290781497782045064
+    second: muerte gota_176
+  - first:
+      213: -8857119074543109159
+    second: muerte gota_177
+  - first:
+      213: -7276381971440648059
+    second: muerte gota_178
+  - first:
+      213: 1773833732806254823
+    second: muerte gota_179
+  - first:
+      213: 8034540701441925210
+    second: muerte gota_180
+  - first:
+      213: 6884032903488409004
+    second: muerte gota_181
+  - first:
+      213: -6334805558564812293
+    second: muerte gota_182
+  - first:
+      213: 3713582288205371924
+    second: muerte gota_183
+  - first:
+      213: -5634735920152465415
+    second: muerte gota_184
+  - first:
+      213: 5065139906070464472
+    second: muerte gota_185
+  - first:
+      213: -8550015321838691023
+    second: muerte gota_186
+  - first:
+      213: -5758546811956235609
+    second: muerte gota_187
+  - first:
+      213: -3634859487646849909
+    second: muerte gota_188
+  - first:
+      213: -5239482506120970761
+    second: muerte gota_189
+  - first:
+      213: -3846676736897631426
+    second: muerte gota_190
+  - first:
+      213: 2329783539524519993
+    second: muerte gota_191
+  - first:
+      213: 1119000725794002681
+    second: muerte gota_192
+  - first:
+      213: 7029369944224861934
+    second: muerte gota_193
+  - first:
+      213: 4280481827210474485
+    second: muerte gota_194
+  - first:
+      213: -3317972586683111004
+    second: muerte gota_195
+  - first:
+      213: 1830978353659142074
+    second: muerte gota_196
+  - first:
+      213: -8177068200164827078
+    second: muerte gota_197
+  - first:
+      213: 3039882090219003879
+    second: muerte gota_198
+  - first:
+      213: 1892706886711923218
+    second: muerte gota_199
+  - first:
+      213: 7023914185849104836
+    second: muerte gota_200
+  - first:
+      213: 8215784545702329490
+    second: muerte gota_201
+  - first:
+      213: -7708257218856050908
+    second: muerte gota_202
+  - first:
+      213: 6684629505906062571
+    second: muerte gota_203
+  - first:
+      213: -781840501942023335
+    second: muerte gota_204
+  - first:
+      213: -7568274733668926501
+    second: muerte gota_205
+  - first:
+      213: -6106177280611311076
+    second: muerte gota_206
+  - first:
+      213: 2824696907096036890
+    second: muerte gota_207
+  - first:
+      213: -7075700284647831103
+    second: muerte gota_208
+  - first:
+      213: -5937876362790105444
+    second: muerte gota_209
+  - first:
+      213: 60593589151382068
+    second: muerte gota_210
+  - first:
+      213: 6450272217622462429
+    second: muerte gota_211
+  - first:
+      213: 6615828390483473584
+    second: muerte gota_212
+  - first:
+      213: -8488708370557577022
+    second: muerte gota_213
+  - first:
+      213: -1668191722054586365
+    second: muerte gota_214
+  - first:
+      213: -5791715658568996343
+    second: muerte gota_215
+  - first:
+      213: -3520762219269006207
+    second: muerte gota_216
+  - first:
+      213: -8635872317839851556
+    second: muerte gota_217
+  - first:
+      213: 906394791590096137
+    second: muerte gota_218
+  - first:
+      213: 4941085868655873703
+    second: muerte gota_219
+  - first:
+      213: -5290601007941320249
+    second: muerte gota_220
+  - first:
+      213: -5084449624711792944
+    second: muerte gota_221
+  - first:
+      213: 8649673402651763671
+    second: muerte gota_222
+  - first:
+      213: -7737558245968072912
+    second: muerte gota_223
+  - first:
+      213: -9066338311830327965
+    second: muerte gota_224
+  - first:
+      213: -7202715542800382993
+    second: muerte gota_225
+  - first:
+      213: 3050209737985686738
+    second: muerte gota_226
+  - first:
+      213: -1564333761251369405
+    second: muerte gota_227
+  - first:
+      213: -3144965494008584049
+    second: muerte gota_228
+  - first:
+      213: 1475134909134690201
+    second: muerte gota_229
+  - first:
+      213: -9126018804582697251
+    second: muerte gota_230
+  - first:
+      213: -498325290601530631
+    second: muerte gota_231
+  - first:
+      213: -1054848414273975007
+    second: muerte gota_232
+  - first:
+      213: -9138197651996712813
+    second: muerte gota_233
+  - first:
+      213: 5244827546810948007
+    second: muerte gota_234
+  - first:
+      213: 3553353352950402300
+    second: muerte gota_235
+  - first:
+      213: -1604856015614949185
+    second: muerte gota_236
+  - first:
+      213: -8497549927734222705
+    second: muerte gota_237
+  - first:
+      213: -2615832466752179729
+    second: muerte gota_238
+  - first:
+      213: -8923466859619834394
+    second: muerte gota_239
+  - first:
+      213: -8402339849896850911
+    second: muerte gota_240
+  - first:
+      213: -7800006377017884020
+    second: muerte gota_241
+  - first:
+      213: 70804565550532368
+    second: muerte gota_242
+  - first:
+      213: 4392668094965292040
+    second: muerte gota_243
+  - first:
+      213: -183735712177762867
+    second: muerte gota_244
+  - first:
+      213: 110398733418464293
+    second: muerte gota_245
+  - first:
+      213: 2896714008440089356
+    second: muerte gota_246
+  - first:
+      213: 2956832489603553862
+    second: muerte gota_247
+  - first:
+      213: 1935131347136380482
+    second: muerte gota_248
+  - first:
+      213: 1508304292996317703
+    second: muerte gota_249
+  - first:
+      213: 6804111589655613818
+    second: muerte gota_250
+  - first:
+      213: 184901719648208848
+    second: muerte gota_251
+  - first:
+      213: 2977977613876255334
+    second: muerte gota_252
+  - first:
+      213: -5464756263635109388
+    second: muerte gota_253
+  - first:
+      213: -7867631303154916478
+    second: muerte gota_254
+  - first:
+      213: 8347227757247470873
+    second: muerte gota_255
+  - first:
+      213: -6936909930945300008
+    second: muerte gota_256
+  - first:
+      213: 756429942882872577
+    second: muerte gota_257
+  - first:
+      213: 5523711490646978695
+    second: muerte gota_258
+  - first:
+      213: -6618184977113788564
+    second: muerte gota_259
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muerte gota_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 387
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b797e0871034ca0800000000000000
+      internalID: -6033977460595786982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 497
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df9e9f537c97e480800000000000000
+      internalID: -8869948921743499310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 515
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c282d9ec70986e70800000000000000
+      internalID: 9108689112530059972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 507
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e46ea6f04398aa80800000000000000
+      internalID: -8455346393162291997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 477
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96b657479835a370800000000000000
+      internalID: 8333128907907053213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 387
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71def2d3a155e7400800000000000000
+      internalID: 323789794401316119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 515
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50299aec798b6a230800000000000000
+      internalID: 3649807510177157637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 503
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58543cacb6087d40800000000000000
+      internalID: 5582219145538459738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 499
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da1870b776488920800000000000000
+      internalID: 2992719432263408338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 491
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49c1067b27bdc3d0800000000000000
+      internalID: -3184687964189767348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 515
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc0d4067910ace00800000000000000
+      internalID: 1065666011493895352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 505
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6013b0fd2a37f14f0800000000000000
+      internalID: -855838260813156090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 489
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc7d18ccf8aa3820800000000000000
+      internalID: 2898815113808936157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 497
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b38f86432ddd1da0800000000000000
+      internalID: -5972374387246005319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 505
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9de2c2144a6eca50800000000000000
+      internalID: 6543284149220994461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 495
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a536c621943d660800000000000000
+      internalID: 7409346155431287410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 505
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a99f435dc2fc9330800000000000000
+      internalID: 3719114355981130148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 497
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edebdd531aa281950800000000000000
+      internalID: 6419928140698468062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 489
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0083fecca57b780800000000000000
+      internalID: -8667359121617977117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_19
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 505
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17a4f7ac9109bd10800000000000000
+      internalID: 2141744870135736094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 491
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b020e9b125cd10800000000000000
+      internalID: 2145157879724816883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 499
+        width: 98
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af95c6731e85a7bd0800000000000000
+      internalID: -2631693307923899910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 495
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c34c9d62d121eb0800000000000000
+      internalID: -4750702604222972903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_23
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 491
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ee1cd2950394dc0800000000000000
+      internalID: -3654336463056540119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 505
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d07e08e583ecf30800000000000000
+      internalID: 4597674248132562317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 499
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b924b60eb85a4230800000000000000
+      internalID: 3623806423352486321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 493
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d41bcda817743cc0800000000000000
+      internalID: -3732227243304610608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_27
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 495
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39558de70f7343c30800000000000000
+      internalID: 4338153847124415891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_28
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 499
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d79a3a74386fe000800000000000000
+      internalID: 67387094032095188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_29
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 487
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f011cb1f0caa59050800000000000000
+      internalID: 5806735040230199567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_30
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 493
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00265f6ccd64ca1c0800000000000000
+      internalID: -4491136814350507520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_31
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 487
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8912288febaeb710800000000000000
+      internalID: 1710993953716836748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 475
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562c77fba8fd7d8d0800000000000000
+      internalID: -2821540854513548699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 317
+        width: 112
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c807e1758fa1e3ac0800000000000000
+      internalID: -3873628975576223604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 479
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafc11e2e3ecaff50800000000000000
+      internalID: 6916066944237031343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_35
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 479
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9960ba61e345a60800000000000000
+      internalID: 7661817133143595482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_36
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 489
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480dd16131dd84530800000000000000
+      internalID: 3839561756378517636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_37
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 489
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dc3c90be20377b0800000000000000
+      internalID: -5227831533942616791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_38
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 479
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8892f0b5cf199e80800000000000000
+      internalID: -8171465114949347188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 481
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac9986057d280b60800000000000000
+      internalID: 7712464342516079780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 483
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738db53769ffa35d0800000000000000
+      internalID: -3081869973336106953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_41
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 479
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523eb66b640fe4160800000000000000
+      internalID: 7011805856361341733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_42
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 487
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0ccda5cce7fe210800000000000000
+      internalID: 1364448628279394508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_43
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 297
+        width: 110
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab0f5bed1923b460800000000000000
+      internalID: 7256188633103666091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_44
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 481
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9cf25b5a16412e0800000000000000
+      internalID: -2155990957266318850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_45
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 475
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e3fb19b5033d880800000000000000
+      internalID: -8587466894620017016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 437
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851c5006bcab3df70800000000000000
+      internalID: 9210911045554913624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_47
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 423
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8573e3fdfa51a680800000000000000
+      internalID: -8745608954611796598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_48
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 435
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ec5343ca0e4b280800000000000000
+      internalID: -9028344322756063586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_49
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 421
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27364503ef8bb5a90800000000000000
+      internalID: -7324056967115938958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_50
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 413
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65155e76c33308ba0800000000000000
+      internalID: -6088810361670774442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_51
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 419
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde18430429aaac50800000000000000
+      internalID: 6677335369669156575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 369
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bfcba025539e5d0800000000000000
+      internalID: -3032834247573570799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 367
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2934f0f214ca7a160800000000000000
+      internalID: 7036782338752070546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 375
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0105d5e4ebb9a58b0800000000000000
+      internalID: -5162642781166022640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5349cb748466caeb0800000000000000
+      internalID: -4707275049881791435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 365
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cad326a79aed4b0800000000000000
+      internalID: -5413703358953444302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_57
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 379
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a46b4d29dbdfe820800000000000000
+      internalID: 2949818006765266089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 371
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8a474aab4af78d0800000000000000
+      internalID: -2846375317944883008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 361
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae12193ef9ad07d0800000000000000
+      internalID: -2950515271513530716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 367
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb19a2df432b2dfd0800000000000000
+      internalID: -2318594917486915138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 369
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4e77bca44eeb510800000000000000
+      internalID: 1566940730263856367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 365
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff8eccca178fe540800000000000000
+      internalID: 5039395057225863161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 329
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d814577e08a442c90800000000000000
+      internalID: -7195544387131719283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_64
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 371
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fb7803281ca8c80800000000000000
+      internalID: -8319624596709458037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 359
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459c3c87d0ee935a0800000000000000
+      internalID: -6540935242150852268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_66
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 373
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae887eeed050efe0800000000000000
+      internalID: -1161839785447747927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 369
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be979be5cd167cb20800000000000000
+      internalID: 3154597663106234859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_68
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 371
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63a2b1cc34098080800000000000000
+      internalID: -9184805306051157138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_69
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 361
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ffa606f08f32a00800000000000000
+      internalID: 730700309489975196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_70
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 361
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186e4b87c79ee9c10800000000000000
+      internalID: 2062342400192603777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_71
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 363
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264ebb96809de2100800000000000000
+      internalID: 85244073123505250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_72
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 371
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9d62c421813dae0800000000000000
+      internalID: -1525849381882373726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_73
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 363
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a03c46e5a04b9af0800000000000000
+      internalID: -388645861559881568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_74
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c1529a23715b50800000000000000
+      internalID: 6580167157245657459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_75
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d9842c4092dd980800000000000000
+      internalID: -8512602620244222708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_76
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 365
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a801b5de8478250800000000000000
+      internalID: 5946802017238288984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_77
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b2dca23f2c82040800000000000000
+      internalID: 4623159367146744620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_78
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 371
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16064dce20de53ef0800000000000000
+      internalID: -128936417491132319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_79
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 369
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4fb4922a758cd70800000000000000
+      internalID: 9063590604072285428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_80
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ea5d26d67dfe4d0800000000000000
+      internalID: -3103024753425404389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_81
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 365
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3360854f7326bf150800000000000000
+      internalID: 5907423328688670259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_82
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1416b2e1d5493f0800000000000000
+      internalID: -894988041781689942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_83
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 365
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8cc7c0d01322380800000000000000
+      internalID: -8997575173418989352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_84
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 369
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d71cbca582632a20800000000000000
+      internalID: 3036378900046026709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_85
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 341
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aacc44dbf4999b0800000000000000
+      internalID: -5072935830934476169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_86
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 357
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bb1d858a441d570800000000000000
+      internalID: 8489642262405430169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_87
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673235c4e6420a370800000000000000
+      internalID: 8331699366780937078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_88
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 345
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cae0e1f0cf16f0c0800000000000000
+      internalID: -4542408260604335418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_89
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e3f017bcd28a2d0800000000000000
+      internalID: -3267311177858859398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_90
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 349
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb941e402add03a0800000000000000
+      internalID: -6697457238546277425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_91
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 359
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9c4072395cc7c90800000000000000
+      internalID: -7170639270875182660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 339
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abee4b892ef038c0800000000000000
+      internalID: -4021435012857533530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_93
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 349
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1b18312a9182f90800000000000000
+      internalID: -6978299438707920417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_94
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 359
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0440458ea913ca400800000000000000
+      internalID: 336698613538489408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_95
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 351
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f53dbaa0b04e7e80800000000000000
+      internalID: -8179028745735293447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_96
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 363
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4460621872110ebb0800000000000000
+      internalID: -4908904732465691068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_97
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 355
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd00f2f47a08b1620800000000000000
+      internalID: 2745929853888823519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_98
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e2f493972b63010800000000000000
+      internalID: 1168317387071499786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_99
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 359
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea71c892b6a7b4d0800000000000000
+      internalID: -3118840930933572882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_100
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 359
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b102aa55443860800000000000000
+      internalID: 7508702734300854675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_101
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 353
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172a8ce32b0f2cb10800000000000000
+      internalID: 2000425832854102641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_102
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 355
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f34d3cb0e87fcc30800000000000000
+      internalID: 4381853869080921078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_103
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9922d15f4ef891c0800000000000000
+      internalID: -4496564611300841062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_104
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 357
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580c6d32450ac50c0800000000000000
+      internalID: -4585614037331033979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_105
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 361
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aafb630139728560800000000000000
+      internalID: 7314541996220873379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_106
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6c50c9b81647630800000000000000
+      internalID: 3923868427592517285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_107
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbd1e96d712d7e30800000000000000
+      internalID: 4502792024971402206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_108
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 357
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b187e812822bcc370800000000000000
+      internalID: 8344240095042107419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_109
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 363
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fd19792d2f25700800000000000000
+      internalID: 527751092655742772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_110
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 357
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee0013b4574c7f20800000000000000
+      internalID: 3421688246001733354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_111
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 347
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dfe04bc89484bc0800000000000000
+      internalID: -3798705417021883041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_112
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 351
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d5c4fac3f33edf0800000000000000
+      internalID: -152208432528859844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_113
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 355
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3922f3903ccc72260800000000000000
+      internalID: 7072846877854474899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_114
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 351
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e21c152318494b0800000000000000
+      internalID: -5434576797209383385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_115
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 355
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab9ab3d4d27cf890800000000000000
+      internalID: -7422931827402564704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_116
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 345
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c9607d14babf570800000000000000
+      internalID: 8501577020860701741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_117
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 347
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035b22b0f177e9800800000000000000
+      internalID: 621064773838222640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_118
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 353
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9101ef251fca990800000000000000
+      internalID: -7373253151160264238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_119
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 347
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73aad32e2cd17f80800000000000000
+      internalID: -8110459363189415041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_120
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 347
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68181f82f2d25fd0800000000000000
+      internalID: -2354587715936708498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_121
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 345
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a266bded68f8140800000000000000
+      internalID: 4724142825856707222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_122
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 335
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5444e7ef34276fec0800000000000000
+      internalID: -3533511221267512251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_123
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 349
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9276abfd6d460fe0800000000000000
+      internalID: -1223205114015747429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_124
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 347
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b51c63274db76280800000000000000
+      internalID: -9050056812943108686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_125
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 347
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a74dc3deb5c3940800000000000000
+      internalID: 5277193937857313319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_126
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 349
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831a51b942b0e08f0800000000000000
+      internalID: -572507850780860104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_127
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1e5054bc1d2c090800000000000000
+      internalID: -8015613715799481869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_128
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 349
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e10b06a16ca459c0800000000000000
+      internalID: -3939334238644796952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_129
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 353
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55c60ac3deea9e90800000000000000
+      internalID: -7018034475908545188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_130
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949d958c7284848c0800000000000000
+      internalID: -4014879732098541239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_131
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f03e4389c85e17b0800000000000000
+      internalID: -5251662492952809224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_132
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 343
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bfb656feca1a1d0800000000000000
+      internalID: -3341199304333460727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_133
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 349
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7001e973f15bd4b0800000000000000
+      internalID: -5414644020819197828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_134
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0948a6afc72c4d220800000000000000
+      internalID: 2509844734385226896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_135
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 347
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acfeb587e3c3d2d0800000000000000
+      internalID: -3255042706509988696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_136
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 345
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfff817a759f0210800000000000000
+      internalID: 1301423170457173971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_137
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 261
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd3d062e895d5180800000000000000
+      internalID: -9125038802924126767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_138
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 345
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587c37800eb637d60800000000000000
+      internalID: 7886765982414522245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_139
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 345
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231eb39c45b403f30800000000000000
+      internalID: 4553222050797052210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_140
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 325
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f1e327eded82aa0800000000000000
+      internalID: -6185449041212596353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_141
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 339
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc49e50bbf677290800000000000000
+      internalID: -7892716972894761788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_142
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 343
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47dc9e223e1cf990800000000000000
+      internalID: -7350967290896263350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_143
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 333
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d53d0cce65275c0800000000000000
+      internalID: -4219214326045385380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_144
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 333
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20815716a0540740800000000000000
+      internalID: 5117303750885736493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_145
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 337
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda5c1655b5fecff0800000000000000
+      internalID: -13803589652948257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_146
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 341
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da26b111c805d820800000000000000
+      internalID: 2942267556875348694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_147
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1fb5dc1dbddcb10800000000000000
+      internalID: 2003499103389741536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_148
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8220542442e2dc00800000000000000
+      internalID: 924049655859257996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_149
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 339
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985289a146b9a0b50800000000000000
+      internalID: 6560226661463762313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_150
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 339
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a84932e0e779fa0800000000000000
+      internalID: -5794023796397274611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_151
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 343
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fd527c625fe3d70800000000000000
+      internalID: 9024920250195763033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_152
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d390bd1a057b6400800000000000000
+      internalID: 318476884967986137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_153
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 335
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e59942ffbb855e0800000000000000
+      internalID: -1920578536568431050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_154
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 339
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fcea6df15130610800000000000000
+      internalID: 1586134720254496586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_155
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 337
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480d862482344ef70800000000000000
+      internalID: 9215564577698795652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_156
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 201
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbdc919612fea440800000000000000
+      internalID: 4949159219272932279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_157
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 329
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a694d65bd2ac2a0800000000000000
+      internalID: -6716505637023815084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_158
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5872122b3d2764900800000000000000
+      internalID: 668347848263280517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_159
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 333
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c28a0c23a92e10800000000000000
+      internalID: 2173447704733205266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_160
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 331
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0700d675b111f600800000000000000
+      internalID: 500200504694933261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_161
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 333
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f62dbac530e33400800000000000000
+      internalID: 302832121603237616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_162
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 335
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f294bc4c2632ce00800000000000000
+      internalID: 1063472025906221810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_163
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 333
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6286348a3ddf300800000000000000
+      internalID: 287618670860445425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_164
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 337
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c95e3ec062eea80800000000000000
+      internalID: -8435763215213421554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_165
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 335
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14b6c59fd43db690800000000000000
+      internalID: -7584848062526868450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_166
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 331
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65e0cc0a19275360800000000000000
+      internalID: 7158235324588549487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_167
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 339
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dcbd433f3fe1410800000000000000
+      internalID: 1449864355949301069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_168
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 333
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ef4382ad93b52b0800000000000000
+      internalID: -5594814502937493965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_169
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 335
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3be9d0093269da0800000000000000
+      internalID: -5938519957030652943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_170
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 329
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30491a91667c3900800000000000000
+      internalID: 665537006513242173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_171
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 325
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d7955a19c6b33a0800000000000000
+      internalID: -6684629849101206245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_172
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fd0064334e4fe10800000000000000
+      internalID: 2230658624324165477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_173
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c983337c30eeab0800000000000000
+      internalID: -4977036384105096072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_174
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 327
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871c6ae1a433cdba0800000000000000
+      internalID: -6062914604912688776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_175
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 323
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ebe34f9306473e0800000000000000
+      internalID: -2056913327774318953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_176
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 331
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8890e8a4b30190400800000000000000
+      internalID: 290781497782045064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_177
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 331
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db7584f021351580800000000000000
+      internalID: -8857119074543109159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_178
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580493e1629150b90800000000000000
+      internalID: -7276381971440648059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_179
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 325
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0a58eb16ced9810800000000000000
+      internalID: 1773833732806254823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_180
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 325
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a502ddaf23c608f60800000000000000
+      internalID: 8034540701441925210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_181
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 321
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad078ad37ff88f50800000000000000
+      internalID: 6884032903488409004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_182
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 311
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9039068ef3618a0800000000000000
+      internalID: -6334805558564812293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_183
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 313
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ad9ac6a6b498330800000000000000
+      internalID: 3713582288205371924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_184
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 309
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffad24e8856dc1b0800000000000000
+      internalID: -5634735920152465415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_185
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 281
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d74cf688edfa4640800000000000000
+      internalID: 5065139906070464472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_186
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d58ad5d5e385980800000000000000
+      internalID: -8550015321838691023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_187
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 249
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2f3e24f288510b0800000000000000
+      internalID: -5758546811956235609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_188
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 321
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84e956ed826e8dc0800000000000000
+      internalID: -3634859487646849909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_189
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 321
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd39cfab6e9947b0800000000000000
+      internalID: -5239482506120970761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_190
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 317
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b357b63ebdd9ac0800000000000000
+      internalID: -3846676736897631426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_191
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 317
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93849e419cd055020800000000000000
+      internalID: 2329783539524519993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_192
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 307
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f61b5c3b3d778f00800000000000000
+      internalID: 1119000725794002681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_193
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee845898b65d8160800000000000000
+      internalID: 7029369944224861934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_194
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 301
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3356afa83576b30800000000000000
+      internalID: 4280481827210474485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_195
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 301
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9e444038134f1d0800000000000000
+      internalID: -3317972586683111004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_196
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 307
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf58499c11f86910800000000000000
+      internalID: 1830978353659142074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_197
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 307
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a306801cbc7358e80800000000000000
+      internalID: -8177068200164827078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_198
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 303
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef5392b7a4df2a20800000000000000
+      internalID: 3039882090219003879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_199
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 301
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212566ea2ee344a10800000000000000
+      internalID: 1892706886711923218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_200
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 289
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ec5cdcb4f97160800000000000000
+      internalID: 7023914185849104836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_201
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 309
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c3bb5e384540270800000000000000
+      internalID: 8215784545702329490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_202
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 301
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f9eb846e4c60590800000000000000
+      internalID: -7708257218856050908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_203
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 301
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be430a27e1394cc50800000000000000
+      internalID: 6684629505906062571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_204
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 295
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b8bb2b4385625f0800000000000000
+      internalID: -781840501942023335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_205
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 299
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb79196a3618f690800000000000000
+      internalID: -7568274733668926501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_206
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c122a9d7d10824ba0800000000000000
+      internalID: -6106177280611311076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_207
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a169a910fd6533720800000000000000
+      internalID: 2824696907096036890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_208
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 297
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c98f6c64101ecd90800000000000000
+      internalID: -7075700284647831103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_209
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 289
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e05b388ec689da0800000000000000
+      internalID: -5937876362790105444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_210
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 275
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ab80d5c8547d000800000000000000
+      internalID: 60593589151382068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_211
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 281
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf35fb2868f38950800000000000000
+      internalID: 6450272217622462429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_212
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b436b57ed420db50800000000000000
+      internalID: 6615828390483473584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_213
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 281
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d70b46bc023a80800000000000000
+      internalID: -8488708370557577022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_214
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 273
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30070bd977469d8e0800000000000000
+      internalID: -1668191722054586365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_215
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 273
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a6dea5b41bf9fa0800000000000000
+      internalID: -5791715658568996343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_216
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 281
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cdad55a6db32fc0800000000000000
+      internalID: -3520762219269006207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_217
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 211
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfb689b1e7372880800000000000000
+      internalID: -8635872317839851556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_218
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 239
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dedfab249249c00800000000000000
+      internalID: 906394791590096137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_219
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 213
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae8fe52b63429440800000000000000
+      internalID: 4941085868655873703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_220
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 193
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c185510a620496b0800000000000000
+      internalID: -5290601007941320249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_221
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 237
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d67fa041086079b0800000000000000
+      internalID: -5084449624711792944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_222
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 249
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3e33cb120d90870800000000000000
+      internalID: 8649673402651763671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_223
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 237
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fad2845cbae9490800000000000000
+      internalID: -7737558245968072912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_224
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 207
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36da6d54755ed2280800000000000000
+      internalID: -9066338311830327965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_225
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 233
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3c23d1060da0c90800000000000000
+      internalID: -7202715542800382993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_226
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 199
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf2139895845a20800000000000000
+      internalID: 3050209737985686738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_227
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 245
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e167a7bbe5a4ae0800000000000000
+      internalID: -1564333761251369405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_228
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 247
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88e1c2cb86da54d0800000000000000
+      internalID: -3144965494008584049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_229
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99750ce526bb87410800000000000000
+      internalID: 1475134909134690201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_230
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6305bbf3ed95180800000000000000
+      internalID: -9126018804582697251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_231
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 229
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa3a17d9c79519f0800000000000000
+      internalID: -498325290601530631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_232
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 233
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dc05fb4fc6c51f0800000000000000
+      internalID: -1054848414273975007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_233
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 241
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3906d69d6a99e2180800000000000000
+      internalID: -9138197651996712813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_234
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 227
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a999d39dde59c840800000000000000
+      internalID: 5244827546810948007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_235
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 235
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc4d0c4c0c005130800000000000000
+      internalID: 3553353352950402300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_236
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 227
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb84f99e4f76ab9e0800000000000000
+      internalID: -1604856015614949185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_237
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f806148dc53a21a80800000000000000
+      internalID: -8497549927734222705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_238
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 245
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe17d431b32b2bbd0800000000000000
+      internalID: -2615832466752179729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_239
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 213
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5a3637b2a792480800000000000000
+      internalID: -8923466859619834394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_240
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a0acc8c64e46b80800000000000000
+      internalID: -8402339849896850911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_241
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82411cb68fc0c390800000000000000
+      internalID: -7800006377017884020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_242
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0178d12906c8bf000800000000000000
+      internalID: 70804565550532368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_243
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 221
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c1998eb54e5fc30800000000000000
+      internalID: 4392668094965292040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_244
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 219
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd471fd75d337df0800000000000000
+      internalID: -183735712177762867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_245
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 219
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5248f092017388100800000000000000
+      internalID: 110398733418464293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_246
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 207
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b28f01b02333820800000000000000
+      internalID: 2896714008440089356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_247
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 191
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a572bbb77c80920800000000000000
+      internalID: 2956832489603553862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_248
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 199
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e79cb15b7fada10800000000000000
+      internalID: 1935131347136380482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_249
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7020e3d53c29ee410800000000000000
+      internalID: 1508304292996317703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_250
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 175
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a719a89e07f0d6e50800000000000000
+      internalID: 6804111589655613818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_251
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 181
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d78df56227e09200800000000000000
+      internalID: 184901719648208848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_252
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 179
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad820acd6e35920800000000000000
+      internalID: 2977977613876255334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_253
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 187
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f930f9b1294924b0800000000000000
+      internalID: -5464756263635109388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_254
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 187
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28325b7a30f80d290800000000000000
+      internalID: -7867631303154916478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_255
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 181
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d14027b6f47d370800000000000000
+      internalID: 8347227757247470873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_256
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 181
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9302fcb252bbf90800000000000000
+      internalID: -6936909930945300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_257
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10da00b76016f7a00800000000000000
+      internalID: 756429942882872577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_258
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 179
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780b1c9b55a28ac40800000000000000
+      internalID: 5523711490646978695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte gota_259
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 179
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f4e45f3db7724a0800000000000000
+      internalID: -6618184977113788564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      muerte gota_0: -6033977460595786982
+      muerte gota_1: -8869948921743499310
+      muerte gota_10: 1065666011493895352
+      muerte gota_100: 7508702734300854675
+      muerte gota_101: 2000425832854102641
+      muerte gota_102: 4381853869080921078
+      muerte gota_103: -4496564611300841062
+      muerte gota_104: -4585614037331033979
+      muerte gota_105: 7314541996220873379
+      muerte gota_106: 3923868427592517285
+      muerte gota_107: 4502792024971402206
+      muerte gota_108: 8344240095042107419
+      muerte gota_109: 527751092655742772
+      muerte gota_11: -855838260813156090
+      muerte gota_110: 3421688246001733354
+      muerte gota_111: -3798705417021883041
+      muerte gota_112: -152208432528859844
+      muerte gota_113: 7072846877854474899
+      muerte gota_114: -5434576797209383385
+      muerte gota_115: -7422931827402564704
+      muerte gota_116: 8501577020860701741
+      muerte gota_117: 621064773838222640
+      muerte gota_118: -7373253151160264238
+      muerte gota_119: -8110459363189415041
+      muerte gota_12: 2898815113808936157
+      muerte gota_120: -2354587715936708498
+      muerte gota_121: 4724142825856707222
+      muerte gota_122: -3533511221267512251
+      muerte gota_123: -1223205114015747429
+      muerte gota_124: -9050056812943108686
+      muerte gota_125: 5277193937857313319
+      muerte gota_126: -572507850780860104
+      muerte gota_127: -8015613715799481869
+      muerte gota_128: -3939334238644796952
+      muerte gota_129: -7018034475908545188
+      muerte gota_13: -5972374387246005319
+      muerte gota_130: -4014879732098541239
+      muerte gota_131: -5251662492952809224
+      muerte gota_132: -3341199304333460727
+      muerte gota_133: -5414644020819197828
+      muerte gota_134: 2509844734385226896
+      muerte gota_135: -3255042706509988696
+      muerte gota_136: 1301423170457173971
+      muerte gota_137: -9125038802924126767
+      muerte gota_138: 7886765982414522245
+      muerte gota_139: 4553222050797052210
+      muerte gota_14: 6543284149220994461
+      muerte gota_140: -6185449041212596353
+      muerte gota_141: -7892716972894761788
+      muerte gota_142: -7350967290896263350
+      muerte gota_143: -4219214326045385380
+      muerte gota_144: 5117303750885736493
+      muerte gota_145: -13803589652948257
+      muerte gota_146: 2942267556875348694
+      muerte gota_147: 2003499103389741536
+      muerte gota_148: 924049655859257996
+      muerte gota_149: 6560226661463762313
+      muerte gota_15: 7409346155431287410
+      muerte gota_150: -5794023796397274611
+      muerte gota_151: 9024920250195763033
+      muerte gota_152: 318476884967986137
+      muerte gota_153: -1920578536568431050
+      muerte gota_154: 1586134720254496586
+      muerte gota_155: 9215564577698795652
+      muerte gota_156: 4949159219272932279
+      muerte gota_157: -6716505637023815084
+      muerte gota_158: 668347848263280517
+      muerte gota_159: 2173447704733205266
+      muerte gota_16: 3719114355981130148
+      muerte gota_160: 500200504694933261
+      muerte gota_161: 302832121603237616
+      muerte gota_162: 1063472025906221810
+      muerte gota_163: 287618670860445425
+      muerte gota_164: -8435763215213421554
+      muerte gota_165: -7584848062526868450
+      muerte gota_166: 7158235324588549487
+      muerte gota_167: 1449864355949301069
+      muerte gota_168: -5594814502937493965
+      muerte gota_169: -5938519957030652943
+      muerte gota_17: 6419928140698468062
+      muerte gota_170: 665537006513242173
+      muerte gota_171: -6684629849101206245
+      muerte gota_172: 2230658624324165477
+      muerte gota_173: -4977036384105096072
+      muerte gota_174: -6062914604912688776
+      muerte gota_175: -2056913327774318953
+      muerte gota_176: 290781497782045064
+      muerte gota_177: -8857119074543109159
+      muerte gota_178: -7276381971440648059
+      muerte gota_179: 1773833732806254823
+      muerte gota_18: -8667359121617977117
+      muerte gota_180: 8034540701441925210
+      muerte gota_181: 6884032903488409004
+      muerte gota_182: -6334805558564812293
+      muerte gota_183: 3713582288205371924
+      muerte gota_184: -5634735920152465415
+      muerte gota_185: 5065139906070464472
+      muerte gota_186: -8550015321838691023
+      muerte gota_187: -5758546811956235609
+      muerte gota_188: -3634859487646849909
+      muerte gota_189: -5239482506120970761
+      muerte gota_19: 2141744870135736094
+      muerte gota_190: -3846676736897631426
+      muerte gota_191: 2329783539524519993
+      muerte gota_192: 1119000725794002681
+      muerte gota_193: 7029369944224861934
+      muerte gota_194: 4280481827210474485
+      muerte gota_195: -3317972586683111004
+      muerte gota_196: 1830978353659142074
+      muerte gota_197: -8177068200164827078
+      muerte gota_198: 3039882090219003879
+      muerte gota_199: 1892706886711923218
+      muerte gota_2: 9108689112530059972
+      muerte gota_20: 2145157879724816883
+      muerte gota_200: 7023914185849104836
+      muerte gota_201: 8215784545702329490
+      muerte gota_202: -7708257218856050908
+      muerte gota_203: 6684629505906062571
+      muerte gota_204: -781840501942023335
+      muerte gota_205: -7568274733668926501
+      muerte gota_206: -6106177280611311076
+      muerte gota_207: 2824696907096036890
+      muerte gota_208: -7075700284647831103
+      muerte gota_209: -5937876362790105444
+      muerte gota_21: -2631693307923899910
+      muerte gota_210: 60593589151382068
+      muerte gota_211: 6450272217622462429
+      muerte gota_212: 6615828390483473584
+      muerte gota_213: -8488708370557577022
+      muerte gota_214: -1668191722054586365
+      muerte gota_215: -5791715658568996343
+      muerte gota_216: -3520762219269006207
+      muerte gota_217: -8635872317839851556
+      muerte gota_218: 906394791590096137
+      muerte gota_219: 4941085868655873703
+      muerte gota_22: -4750702604222972903
+      muerte gota_220: -5290601007941320249
+      muerte gota_221: -5084449624711792944
+      muerte gota_222: 8649673402651763671
+      muerte gota_223: -7737558245968072912
+      muerte gota_224: -9066338311830327965
+      muerte gota_225: -7202715542800382993
+      muerte gota_226: 3050209737985686738
+      muerte gota_227: -1564333761251369405
+      muerte gota_228: -3144965494008584049
+      muerte gota_229: 1475134909134690201
+      muerte gota_23: -3654336463056540119
+      muerte gota_230: -9126018804582697251
+      muerte gota_231: -498325290601530631
+      muerte gota_232: -1054848414273975007
+      muerte gota_233: -9138197651996712813
+      muerte gota_234: 5244827546810948007
+      muerte gota_235: 3553353352950402300
+      muerte gota_236: -1604856015614949185
+      muerte gota_237: -8497549927734222705
+      muerte gota_238: -2615832466752179729
+      muerte gota_239: -8923466859619834394
+      muerte gota_24: 4597674248132562317
+      muerte gota_240: -8402339849896850911
+      muerte gota_241: -7800006377017884020
+      muerte gota_242: 70804565550532368
+      muerte gota_243: 4392668094965292040
+      muerte gota_244: -183735712177762867
+      muerte gota_245: 110398733418464293
+      muerte gota_246: 2896714008440089356
+      muerte gota_247: 2956832489603553862
+      muerte gota_248: 1935131347136380482
+      muerte gota_249: 1508304292996317703
+      muerte gota_25: 3623806423352486321
+      muerte gota_250: 6804111589655613818
+      muerte gota_251: 184901719648208848
+      muerte gota_252: 2977977613876255334
+      muerte gota_253: -5464756263635109388
+      muerte gota_254: -7867631303154916478
+      muerte gota_255: 8347227757247470873
+      muerte gota_256: -6936909930945300008
+      muerte gota_257: 756429942882872577
+      muerte gota_258: 5523711490646978695
+      muerte gota_259: -6618184977113788564
+      muerte gota_26: -3732227243304610608
+      muerte gota_27: 4338153847124415891
+      muerte gota_28: 67387094032095188
+      muerte gota_29: 5806735040230199567
+      muerte gota_3: -8455346393162291997
+      muerte gota_30: -4491136814350507520
+      muerte gota_31: 1710993953716836748
+      muerte gota_32: -2821540854513548699
+      muerte gota_33: -3873628975576223604
+      muerte gota_34: 6916066944237031343
+      muerte gota_35: 7661817133143595482
+      muerte gota_36: 3839561756378517636
+      muerte gota_37: -5227831533942616791
+      muerte gota_38: -8171465114949347188
+      muerte gota_39: 7712464342516079780
+      muerte gota_4: 8333128907907053213
+      muerte gota_40: -3081869973336106953
+      muerte gota_41: 7011805856361341733
+      muerte gota_42: 1364448628279394508
+      muerte gota_43: 7256188633103666091
+      muerte gota_44: -2155990957266318850
+      muerte gota_45: -8587466894620017016
+      muerte gota_46: 9210911045554913624
+      muerte gota_47: -8745608954611796598
+      muerte gota_48: -9028344322756063586
+      muerte gota_49: -7324056967115938958
+      muerte gota_5: 323789794401316119
+      muerte gota_50: -6088810361670774442
+      muerte gota_51: 6677335369669156575
+      muerte gota_52: -3032834247573570799
+      muerte gota_53: 7036782338752070546
+      muerte gota_54: -5162642781166022640
+      muerte gota_55: -4707275049881791435
+      muerte gota_56: -5413703358953444302
+      muerte gota_57: 2949818006765266089
+      muerte gota_58: -2846375317944883008
+      muerte gota_59: -2950515271513530716
+      muerte gota_6: 3649807510177157637
+      muerte gota_60: -2318594917486915138
+      muerte gota_61: 1566940730263856367
+      muerte gota_62: 5039395057225863161
+      muerte gota_63: -7195544387131719283
+      muerte gota_64: -8319624596709458037
+      muerte gota_65: -6540935242150852268
+      muerte gota_66: -1161839785447747927
+      muerte gota_67: 3154597663106234859
+      muerte gota_68: -9184805306051157138
+      muerte gota_69: 730700309489975196
+      muerte gota_7: 5582219145538459738
+      muerte gota_70: 2062342400192603777
+      muerte gota_71: 85244073123505250
+      muerte gota_72: -1525849381882373726
+      muerte gota_73: -388645861559881568
+      muerte gota_74: 6580167157245657459
+      muerte gota_75: -8512602620244222708
+      muerte gota_76: 5946802017238288984
+      muerte gota_77: 4623159367146744620
+      muerte gota_78: -128936417491132319
+      muerte gota_79: 9063590604072285428
+      muerte gota_8: 2992719432263408338
+      muerte gota_80: -3103024753425404389
+      muerte gota_81: 5907423328688670259
+      muerte gota_82: -894988041781689942
+      muerte gota_83: -8997575173418989352
+      muerte gota_84: 3036378900046026709
+      muerte gota_85: -5072935830934476169
+      muerte gota_86: 8489642262405430169
+      muerte gota_87: 8331699366780937078
+      muerte gota_88: -4542408260604335418
+      muerte gota_89: -3267311177858859398
+      muerte gota_9: -3184687964189767348
+      muerte gota_90: -6697457238546277425
+      muerte gota_91: -7170639270875182660
+      muerte gota_92: -4021435012857533530
+      muerte gota_93: -6978299438707920417
+      muerte gota_94: 336698613538489408
+      muerte gota_95: -8179028745735293447
+      muerte gota_96: -4908904732465691068
+      muerte gota_97: 2745929853888823519
+      muerte gota_98: 1168317387071499786
+      muerte gota_99: -3118840930933572882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
