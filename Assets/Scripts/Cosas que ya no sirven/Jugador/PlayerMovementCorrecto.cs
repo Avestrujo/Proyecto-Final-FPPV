@@ -57,8 +57,6 @@ public class PlayerMovementCorrecto : MonoBehaviour
         { //Comprobacion de si el personaje esta en el suelo2
             enSuelo = false;
             rb2D.AddForce(new Vector2(0f, FuerzaSalto));
-
-
         }
     }
     private void Girar()

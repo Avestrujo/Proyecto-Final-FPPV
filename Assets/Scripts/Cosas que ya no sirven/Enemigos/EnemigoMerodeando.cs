@@ -8,7 +8,7 @@ public class EnemigoMerodeando : MonoBehaviour
     private Animator anim;
     private Transform currentPoint;
     public float speed;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -17,8 +17,6 @@ public class EnemigoMerodeando : MonoBehaviour
         anim.SetBool("Moviendo", true);
 
     }
-
-    // Update is called once per frame
     void Update()
     { //Movimiento del enemigo
         Vector2 point = currentPoint.position - transform.position;
