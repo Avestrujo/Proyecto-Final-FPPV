@@ -19,7 +19,7 @@ public class Player : MonoBehaviour
     {
         
         MovementPlayer();
-        Shoot();
+        
     }
 
     public void MovementPlayer()

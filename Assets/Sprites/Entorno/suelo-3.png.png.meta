@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 93782561a73187143b3c9314c9cc17fc
+guid: 357bf2fbbca03514a9fbdf682d814200
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2657932501517978966
-    second: sueloagua_0
+      213: 7076383954966289084
+    second: suelo-3.png_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sueloagua_0
+      name: suelo-3.png_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 65
-        width: 256
-        height: 88
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65dc1fd178fd2e420800000000000000
-      internalID: 2657932501517978966
+      spriteID: cba1a0af6bd543260800000000000000
+      internalID: 7076383954966289084
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sueloagua_0: 2657932501517978966
+      suelo-3.png_0: 7076383954966289084
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 075777c6084f69d4d8d55c944fa55366
+guid: c9544fc7935322c46b3a147cdd235edb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1115194457532325333
-    second: suelosesp3_0
+      213: -8557504723902057039
+    second: paredesp3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: suelosesp3_0
+      name: paredesp3_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b222d47ac880680f0800000000000000
-      internalID: -1115194457532325333
+      spriteID: 1b537101bc2ad3980800000000000000
+      internalID: -8557504723902057039
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      suelosesp3_0: -1115194457532325333
+      paredesp3_0: -8557504723902057039
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

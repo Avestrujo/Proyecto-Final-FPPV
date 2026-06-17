@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bd10e9a439e1e4e4abfb325e831d1be4
+guid: bcc67fce6cfdd9c458450db8d10e7911
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4064218179346737033
-    second: sueloconectorder_0
+      213: -6064207654750518611
+    second: suelo-7.png_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sueloconectorder_0
+      name: suelo-7.png_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 77
-        width: 256
-        height: 108
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 987a5a5a6e0076830800000000000000
-      internalID: 4064218179346737033
+      spriteID: da2046e744b97dba0800000000000000
+      internalID: -6064207654750518611
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sueloconectorder_0: 4064218179346737033
+      suelo-7.png_0: -6064207654750518611
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
