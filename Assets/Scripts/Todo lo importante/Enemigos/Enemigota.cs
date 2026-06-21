@@ -17,7 +17,6 @@ public class Enemigota : MonoBehaviour
     public float AttackTime;
     public float MaxAttackTime = 2f;
     public bool IsAbleToAttack;
-    public float damage = 1f;
 
     void Start()
     {
@@ -73,11 +72,11 @@ public class Enemigota : MonoBehaviour
             {
                 if (IsAbleToAttack)
                 {
-                    //GetComponent
+                    
                     Debug.Log("Atacado");
-                    Target.GetComponent<Player>().Health -= damage;
-                    IsAbleToAttack = false;
+                    
                     AttackTimer();
+                    IsAbleToAttack = false;
                 }
 
             }
@@ -98,7 +97,7 @@ public class Enemigota : MonoBehaviour
             //ataque
             AttackTime = 0;
         }
-
+        
     }
 }
 

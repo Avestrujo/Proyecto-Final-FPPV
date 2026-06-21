@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class PlayerMovementCorrecto : MonoBehaviour
+public class PlayerMovementIncorrecto : MonoBehaviour
 {
     private Rigidbody2D rb2D;
     public GameObject BulletPrefab;

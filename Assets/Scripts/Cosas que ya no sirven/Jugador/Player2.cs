@@ -1,8 +1,8 @@
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class Player2 : MonoBehaviour
 {
-    public float Health;
+    public float vida;
     public float Speed;
 
     public float MaxTime = 10f;
