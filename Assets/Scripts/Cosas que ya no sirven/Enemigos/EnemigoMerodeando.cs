@@ -12,9 +12,9 @@ public class EnemigoMerodeando : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        anim = GetComponent<Animator>();
+        //anim = GetComponent<Animator>();
         currentPoint = pointB.transform;
-        anim.SetBool("Moviendo", true);
+        //anim.SetBool("Moviendo", true);
 
     }
     void Update()
@@ -22,7 +22,7 @@ public class EnemigoMerodeando : MonoBehaviour
         Vector2 point = currentPoint.position - transform.position;
         if(currentPoint == pointB.transform)
         {
-            rb.linearVelocity = new Vector2(speed, 0);
+            rb.linearVelocity = new Vector2(speed, 0); 
         }
         else
         {
