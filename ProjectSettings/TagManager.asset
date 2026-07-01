@@ -42,38 +42,23 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Fondo
-    uniqueID: 2601800363
+  - name: Suelo
+    uniqueID: 116880439
     locked: 0
-  - name: Plataformas
-    uniqueID: 3985262719
+  - name: Caminable
+    uniqueID: 4289569167
+    locked: 0
+  - name: Colision
+    uniqueID: 1664170591
     locked: 0
   - name: Jugador
-    uniqueID: 2469846667
+    uniqueID: 1092936657
     locked: 0
-  - name: Extras
-    uniqueID: 1600468671
+  - name: Detras
+    uniqueID: 586759271
     locked: 0
-  - name: Suelo
-    uniqueID: 1646976395
-    locked: 0
-  - name: Suelo2
-    uniqueID: 143021021
-    locked: 0
-  - name: Liquido
-    uniqueID: 2803196743
-    locked: 0
-  - name: DetallesSuelo
-    uniqueID: 4097647863
-    locked: 0
-  - name: DetallesSuelo2
-    uniqueID: 482506873
-    locked: 0
-  - name: Paredes
-    uniqueID: 2038744431
-    locked: 0
-  - name: Techo
-    uniqueID: 1973952441
+  - name: Decoraci
+    uniqueID: 2161626875
     locked: 0
   m_RenderingLayers:
   - Default
