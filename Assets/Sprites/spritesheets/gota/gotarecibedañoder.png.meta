@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 6e8d3bc4ff53e514eafaa34cf1a0b285
+guid: 980448929d207984984fd8c2d35ea574
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6015305609296724752
-    second: armadillon_0
+      213: -104777216959389960
+    second: "gotarecibeda\xF1oder_0"
+  - first:
+      213: -6712860852340959303
+    second: "gotarecibeda\xF1oder_1"
+  - first:
+      213: -8111799263431963715
+    second: "gotarecibeda\xF1oder_2"
+  - first:
+      213: 3634188531784637628
+    second: "gotarecibeda\xF1oder_3"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: armadillon_0
+      name: "gotarecibeda\xF1oder_0"
       rect:
         serializedVersion: 2
-        x: 4
-        y: 6
-        width: 67
-        height: 38
+        x: 2
+        y: 0
+        width: 18
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0fc34763b67558ca0800000000000000
-      internalID: -6015305609296724752
+      spriteID: 8fed4922da1cb8ef0800000000000000
+      internalID: -104777216959389960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gotarecibeda\xF1oder_1"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 23
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7579dfe9027d2a0800000000000000
+      internalID: -6712860852340959303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gotarecibeda\xF1oder_2"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 23
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbccdd4c891d6f80800000000000000
+      internalID: -8111799263431963715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gotarecibeda\xF1oder_3"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc52d3073b3f6230800000000000000
+      internalID: 3634188531784637628
       vertices: []
       indices: 
       edges: []
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      armadillon_0: -6015305609296724752
+      "gotarecibeda\xF1oder_0": -104777216959389960
+      "gotarecibeda\xF1oder_1": -6712860852340959303
+      "gotarecibeda\xF1oder_2": -8111799263431963715
+      "gotarecibeda\xF1oder_3": 3634188531784637628
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
