@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: suelofuera 1_0
+      name: suelofuera_0
       rect:
         serializedVersion: 2
         x: 0
@@ -126,16 +126,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 83867ac4789eb4090800000000000000
-      internalID: -8049083141678733256
+      spriteID: 36ec97b420d876242865393455057a6b
+      internalID: -1110768590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_1
+      name: suelofuera_1
       rect:
         serializedVersion: 2
         x: 16
@@ -150,14 +150,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff67b0804397b2240b35eb433c95576a
-      internalID: -188634132
+      spriteID: 63fab19c6a44ac541b53256ec048a18c
+      internalID: 2018239097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_2
+      name: suelofuera_2
       rect:
         serializedVersion: 2
         x: 32
@@ -172,14 +172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f71d0cba08ac3f45a062b2f1cc56336
-      internalID: -939636980
+      spriteID: 7543605b48a292e4680b8d734cef3c29
+      internalID: 186225957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_3
+      name: suelofuera_3
       rect:
         serializedVersion: 2
         x: 48
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84fc54d1896db9d4d95cb4de9711315b
-      internalID: -274358288
+      spriteID: bb1fd44ffd7d6144993f6857bdb8644f
+      internalID: -905108802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_4
+      name: suelofuera_4
       rect:
         serializedVersion: 2
         x: 0
@@ -216,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f06f7557eb1b5349a725b3404714689
-      internalID: 2113869942
+      spriteID: 284e4492d2175504186138d7b98c8df3
+      internalID: -1513031847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_5
+      name: suelofuera_5
       rect:
         serializedVersion: 2
         x: 16
@@ -238,14 +238,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e84af5bce80f7b843b3031e0a0d56725
-      internalID: -794300571
+      spriteID: 358641df60544d74682ec841ee861cfa
+      internalID: -556866863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_6
+      name: suelofuera_6
       rect:
         serializedVersion: 2
         x: 32
@@ -260,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6cac2e7d7bcdb1419471ec569e788cf
-      internalID: 2082261929
+      spriteID: e450f7d842fe04743ab95ac8ceef0490
+      internalID: 372415257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_7
+      name: suelofuera_7
       rect:
         serializedVersion: 2
         x: 48
@@ -282,14 +282,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 636d21a1e5709664ea7f17046bc7fa2e
-      internalID: 2069375424
+      spriteID: 3eab0c91350700a459965458a25ea473
+      internalID: 1004433463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_8
+      name: suelofuera_8
       rect:
         serializedVersion: 2
         x: 0
@@ -304,14 +304,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e50f4315e499ae1478778af837f7b15f
-      internalID: 1812281936
+      spriteID: 8cf1346269c96b44d95e3d471ebd7fba
+      internalID: -1965351266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_9
+      name: suelofuera_9
       rect:
         serializedVersion: 2
         x: 16
@@ -326,14 +326,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39708294476f959449867f119c276c8c
-      internalID: -580024738
+      spriteID: 38bdc7d678c5ad24cac5d61c1b8d17d0
+      internalID: -1934924883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_10
+      name: suelofuera_10
       rect:
         serializedVersion: 2
         x: 32
@@ -348,14 +348,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e0752df33d2ceb478761295184dac91
-      internalID: -433997626
+      spriteID: 88b38bb755192d547b979acd9f89b18c
+      internalID: -2034998993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_11
+      name: suelofuera_11
       rect:
         serializedVersion: 2
         x: 48
@@ -370,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 300f546544b35fe44992fad352cd9799
-      internalID: -396871214
+      spriteID: ff42c132cd7081f469599f7cb16e0e1c
+      internalID: -203652118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_12
+      name: suelofuera_12
       rect:
         serializedVersion: 2
         x: 0
@@ -392,14 +392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e8c95167ba97ba438c8663e032ff492
-      internalID: 1985781752
+      spriteID: cfd981f168ad05f46a027dfc7095d5d5
+      internalID: -520213741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_13
+      name: suelofuera_13
       rect:
         serializedVersion: 2
         x: 16
@@ -414,14 +414,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7c9623520b9f564daaf4ba9a6a3069c
-      internalID: -410216749
+      spriteID: 471a5253362040041a5a69fefd87cfc8
+      internalID: -2022088339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_14
+      name: suelofuera_14
       rect:
         serializedVersion: 2
         x: 32
@@ -436,14 +436,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39ab4faf88cebc24baf346a005759cad
-      internalID: 32469288
+      spriteID: 499af33adf9e08d47973f8b2e98cd677
+      internalID: 1523172884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_15
+      name: suelofuera_15
       rect:
         serializedVersion: 2
         x: 48
@@ -458,14 +458,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c463bd51bbd02e4299a761f9ca4f91f
-      internalID: 1693290517
+      spriteID: 1132d34a8d824aa48bc2e582bdc35d00
+      internalID: 2133350910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_16
+      name: suelofuera_16
       rect:
         serializedVersion: 2
         x: 0
@@ -480,14 +480,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c951bd3fa83b69499dab6440c4b60c0
-      internalID: 2115828679
+      spriteID: 72c4d281a195f8448969cc4ac84f0e1a
+      internalID: 1210226813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: suelofuera 1_17
+      name: suelofuera_17
       rect:
         serializedVersion: 2
         x: 16
@@ -502,8 +502,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76200c5b9096c5b439a5c2d761c569ba
-      internalID: 833261395
+      spriteID: 9572ae51674b80345923d0fdfeaff34c
+      internalID: 972742453
       vertices: []
       indices: 
       edges: []
@@ -524,24 +524,24 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      suelofuera 1_0: -8049083141678733256
-      suelofuera 1_1: -188634132
-      suelofuera 1_10: -433997626
-      suelofuera 1_11: -396871214
-      suelofuera 1_12: 1985781752
-      suelofuera 1_13: -410216749
-      suelofuera 1_14: 32469288
-      suelofuera 1_15: 1693290517
-      suelofuera 1_16: 2115828679
-      suelofuera 1_17: 833261395
-      suelofuera 1_2: -939636980
-      suelofuera 1_3: -274358288
-      suelofuera 1_4: 2113869942
-      suelofuera 1_5: -794300571
-      suelofuera 1_6: 2082261929
-      suelofuera 1_7: 2069375424
-      suelofuera 1_8: 1812281936
-      suelofuera 1_9: -580024738
+      suelofuera_0: -1110768590
+      suelofuera_1: 2018239097
+      suelofuera_10: -2034998993
+      suelofuera_11: -203652118
+      suelofuera_12: -520213741
+      suelofuera_13: -2022088339
+      suelofuera_14: 1523172884
+      suelofuera_15: 2133350910
+      suelofuera_16: 1210226813
+      suelofuera_17: 972742453
+      suelofuera_2: 186225957
+      suelofuera_3: -905108802
+      suelofuera_4: -1513031847
+      suelofuera_5: -556866863
+      suelofuera_6: 372415257
+      suelofuera_7: 1004433463
+      suelofuera_8: -1965351266
+      suelofuera_9: -1934924883
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
