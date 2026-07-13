@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ambiente
   - Enemy
+  - caja1
   layers:
   - Default
   - TransparentFX
@@ -15,7 +16,7 @@ TagManager:
   - UI
   - Piso
   - Player
-  - 
+  - cajas
   - 
   - 
   - 
@@ -58,8 +59,14 @@ TagManager:
   - name: Puertas
     uniqueID: 2002081705
     locked: 0
+  - name: Detras-1
+    uniqueID: 2085219881
+    locked: 0
   - name: Detras
     uniqueID: 586759271
+    locked: 0
+  - name: Detras1
+    uniqueID: 3230335477
     locked: 0
   - name: Decoracion
     uniqueID: 2161626875
