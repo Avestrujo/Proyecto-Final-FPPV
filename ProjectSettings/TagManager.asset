@@ -14,7 +14,7 @@ TagManager:
   - Water
   - UI
   - Piso
-  - 
+  - Player
   - 
   - 
   - 
@@ -54,6 +54,9 @@ TagManager:
     locked: 0
   - name: Jugador
     uniqueID: 1092936657
+    locked: 0
+  - name: Puertas
+    uniqueID: 2002081705
     locked: 0
   - name: Detras
     uniqueID: 586759271
